@@ -8,7 +8,7 @@
 6. Gained hands-on experience in human-AI collaboration, foundational to roles in AI ops, trust & safety, and machine learning support
 
 ## Tata Consultancy Services ESG Job Simulation ##
-Screenshot 2026-01-09 155159.png
+
 1. Completed a simulation involving sustainability consulting for Tata Consultancy Services
 2. Assessed a client's sustainability needs
 3. Completed a comparative analysis of potential TCS solutions
