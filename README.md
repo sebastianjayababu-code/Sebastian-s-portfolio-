@@ -6,8 +6,9 @@
 4. Reviewed labeling work done by others, identified inconsistencies, and suggested one improvement to the team’s labeling guidelines
 5. Strengthened my ability to apply clear definitions, follow ethical privacy practices, and maintain consistency across data
 6. Gained hands-on experience in human-AI collaboration, foundational to roles in AI ops, trust & safety, and machine learning support
-![ESG Cover page](<Screenshot 2026-01-09 155159.PNG>)
+
 ## Tata Consultancy Services ESG Job Simulation ##
+<img width="546" height="336" alt="Screenshot 2026-01-09 155159" src="https://github.com/user-attachments/assets/95683e58-47dd-4eb5-8d96-0eb7a63d1659" />
 
 1. Completed a simulation involving sustainability consulting for Tata Consultancy Services
 2. Assessed a client's sustainability needs
