@@ -1,5 +1,5 @@
-# Sebastian-s-portfolio-
-# Data Analytics Portfolio #
+# Sebastian's Data Analytics portfolio-
+# Data Labeling Job Simulation  Portfolio #
 Data Labeling Job Simulation 
 Completed a job simulation where I worked as a Data Labeling Analyst for a hypothetical AI company, reviewing real customer support messages
 Practiced classifying messages for Intent, Sentiment, and PII (personally identifiable information) using a consistent labeling schema
